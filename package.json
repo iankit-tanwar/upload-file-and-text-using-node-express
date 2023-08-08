@@ -1,0 +1,20 @@
+{
+  "name": "l243",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "epress": "^0.0.1-security",
+    "express-validator": "^7.0.1",
+    "moongose": "^1.0.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
